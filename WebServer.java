@@ -105,9 +105,9 @@ public class WebServer {
     return PORT;
   }
 
-  public static void main(String[] args) throws IOException {
+  //public static void main(String[] args) throws IOException {
 
-    new WebServer(WebServer.getPort());
+    //new WebServer(WebServer.getPort());
 
-  }
+  //}
 }
